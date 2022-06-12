@@ -1,4 +1,2 @@
-random
-neat-python
-pygame
-os
+neat-python==0.92
+pygame==2.1.2
